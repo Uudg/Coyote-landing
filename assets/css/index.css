@@ -56,7 +56,7 @@ button.enroll {
     width: 100%;
     height: 100%;
     z-index: 1;
-    background-image: linear-gradient(180deg, #161415 25.96%, rgba(0, 0, 0, 0) 74.01%, #161415 100%), url('../img/bg1.jpg');
+    background-image: linear-gradient(180deg, #161415 25.96%, rgba(0, 0, 0, 0) 74.01%, #161415 100%), url('../img/bg.jpg');
     background-size: cover;
     overflow: hidden;
 }
